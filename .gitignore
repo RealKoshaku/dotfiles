@@ -1,0 +1,7 @@
+# Ignore sensitive data
+.zsh_history
+.zsh_sessions/
+*.session
+
+# OS files
+.DS_Store
